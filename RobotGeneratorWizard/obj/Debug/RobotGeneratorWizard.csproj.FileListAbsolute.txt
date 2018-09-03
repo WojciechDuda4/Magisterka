@@ -1,0 +1,9 @@
+C:\Users\diurda\documents\visual studio 2012\Projects\RobotGeneratorWizard\RobotGeneratorWizard\bin\Debug\RobotGeneratorWizard.dll
+C:\Users\diurda\documents\visual studio 2012\Projects\RobotGeneratorWizard\RobotGeneratorWizard\bin\Debug\RobotGeneratorWizard.pdb
+C:\Users\diurda\documents\visual studio 2012\Projects\RobotGeneratorWizard\RobotGeneratorWizard\obj\Debug\RobotGeneratorWizard.ChosenModelsListForm.resources
+C:\Users\diurda\documents\visual studio 2012\Projects\RobotGeneratorWizard\RobotGeneratorWizard\obj\Debug\RobotGeneratorWizard.Form1.resources
+C:\Users\diurda\documents\visual studio 2012\Projects\RobotGeneratorWizard\RobotGeneratorWizard\obj\Debug\RobotGeneratorWizard.ImportModelForm.resources
+C:\Users\diurda\documents\visual studio 2012\Projects\RobotGeneratorWizard\RobotGeneratorWizard\obj\Debug\RobotGeneratorWizard.csproj.GenerateResource.Cache
+C:\Users\diurda\documents\visual studio 2012\Projects\RobotGeneratorWizard\RobotGeneratorWizard\obj\Debug\RobotGeneratorWizard.dll
+C:\Users\diurda\documents\visual studio 2012\Projects\RobotGeneratorWizard\RobotGeneratorWizard\obj\Debug\RobotGeneratorWizard.pdb
+C:\Users\diurda\documents\visual studio 2012\Projects\RobotGeneratorWizard\RobotGeneratorWizard\obj\Debug\RobotGeneratorWizard.csprojResolveAssemblyReference.cache
